@@ -1,0 +1,2 @@
+const supabaseUrl = 'https://gowvgartkdpzlrpattbr.supabase.co';
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdvd3ZnYXJ0a2RwemxycGF0dGJyIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcyMTk1MDY3MywiZXhwIjoyMDM3NTI2NjczfQ.H0NpWP5HxoN8YYg-gb1A5zkGBrp4ApH68A8CmbIPpwI';
